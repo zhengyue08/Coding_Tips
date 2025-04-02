@@ -1,3 +1,5 @@
+// Record a neat way to conduct operation on 1D and 2D array
+
 #include <stdio.h>
 
 
